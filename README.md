@@ -3,4 +3,4 @@ Repositori Halo Guys untuk tutorial Git
 Ini adalah sebuah contoh repositori untuk tutorial Git.
 
 Repositori ini dibangun mengikuti tahap demi tahap pada tutorial
-Ini adalah baris baru 
+Merubah baris keenam
